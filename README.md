@@ -7,6 +7,7 @@ An evolving starter kit for blockchain - Disclaimer: Heavy Ethereum lens.
 Blockchain is a quite generic system using cryptography and a ledger. The structure of the system allows for immutable transactions. A distributed ledger is usually peer-to-peer and requires consensus for validating new blocks. 
 
 *Recommended Reading: [3500 Word Plain English Guide to Blockchain](https://thenextweb.com/contributors/2017/11/01/ultimate-3500-word-plain-english-guide-blockchain/)*
+
 *Recommended Play: [BlockchainDemo](https://demoblockchain.org/hash)*
 
 
@@ -14,7 +15,9 @@ Blockchain is a quite generic system using cryptography and a ledger. The struct
 The first blockchain was presented in a whitepaper under the pseudonym Satoshi Nakamoto in 2008. The design was implemented into the form of a cryptocurrency called Bitcoin. [Nick Szabo](http://unenumerated.blogspot.com/) is known for ushering in a new concept around "smart contracts" which laid the foundations for Ethereum. 
 
 *Recommended Reading: [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)*
+
 *Recommended Reading for Bitcoin History: [Digital Gold by Nathaniel Popper](https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent/dp/006236250X)*
+
 *Recommnded Play: [TxHighway](https://txhighway.com/#)*
 
 
@@ -23,7 +26,9 @@ The first blockchain was presented in a whitepaper under the pseudonym Satoshi N
 Ethereum is an open source, public, Turing-complete, blockchain-based distributed system featuring smart contracts. [Vitalik Buterin](https://vitalik.ca/) wrote the white paper in 2013. Amongst the co-founders is Gavin Wood (Parity Technologies), Charles Hoskinson (Cardano), and Anthony Di Iorio, Joe Lubin (ConsenSys).
 
 *Recommended Reading: [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper#ethereum-accounts)*
+
 *Recommended Reading: [Illustrated Guide to Ethereum](https://www.upfolio.com/ultimate-ethereum-guide)*
+
 *Recommended Play: [Cryptozombies](https://cryptozombies.io/)*
 https://blog.ethereum.org/2014/01/23/ethereum-now-going-public/
 
@@ -36,7 +41,9 @@ https://blog.ethereum.org/2014/01/23/ethereum-now-going-public/
 - Call for financial reform
 
 *Recommended Reading: [Three challenges for the web, according to Sir Tim Berners-Lee](https://webfoundation.org/2017/03/web-turns-28-letter/)*
+
 *Recommended Reading: [Debt: The First 5,000 Years by David Graeber](https://www.amazon.com/Debt-First-5-000-Years/dp/1612191290)*
+
 *Recommended Watch: [MakerDAO- A New Hope for Financial Reform](https://slideslive.at/38911619/makerdao-a-new-hope-for-financial-reform)*
 
 ### **Values**
@@ -179,8 +186,8 @@ Books
 - A chunk of this info is outdated but good basic and historical info: [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) and [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 
 Watch
-- Financial: https://slideslive.at/38911619/makerdao-a-new-hope-for-financial-reform
-- Societal: https://slideslive.at/38911677/a-conversation-with-stewart-brand
+- Financial: [MAKERDAO - A New Hope for Financial Reform](https://slideslive.at/38911619/makerdao-a-new-hope-for-financial-reform)
+- Societal: [A Conversation with Stewart Brand](https://slideslive.at/38911677/a-conversation-with-stewart-brand)
 
 
 ### Foundations 
