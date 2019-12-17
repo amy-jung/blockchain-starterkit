@@ -65,6 +65,8 @@ Anyone can make a blockchain, but not everyone can foster a community. What are 
 
 ### **Current Challenges**
 
+*Recommended Reading: [Why Blockchain is Hard](https://medium.com/@jimmysong/why-blockchain-is-hard-60416ea4c5c)*
+
 **Challenge #1:** Scaling!
 
 Current state: Ethereum is in the middle of moving from current (proof-of-work) system to ETH2.0 (staking) which will require a lot less computation, so you'll see a lot of the development split and in flux. 
