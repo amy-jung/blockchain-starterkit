@@ -183,9 +183,9 @@ Classic Whitepapers
 
 Books
 - [Debt: The First 5,000 Years by David Graeber](https://www.amazon.com/Debt-First-5-000-Years/dp/1612191290)
-- Digital Gold by Nathaniel Popper
+- [Digital Gold by Nathaniel Popper](https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent/dp/006236250X)
 - Radical Markets by Glen Weyl (maybe check out [his video before](https://slideslive.at/38911680/decentralization-against-isolation))
-- A chunk of this info is outdated but good basic and historical info: [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) and [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
+- [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) and [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)- A chunk of this info is outdated but good basic and historical info.
 
 Watch
 - Financial: [MAKERDAO - A New Hope for Financial Reform](https://slideslive.at/38911619/makerdao-a-new-hope-for-financial-reform)
@@ -204,8 +204,8 @@ Watch
 ### Events
 Events end up being really important and very global because it's a global-first culture (yay open source!). So they become meeting points for teams (some who work together for months/years and never meet til an event)
 
-- Devcon - Ethereum's annual gathering
-- Web3Summit - 
+- [Devcon](https://devcon.org/) - Ethereum's annual gathering.
+- [Web3Summit](https://web3summit.com/) - Web3 Foundation's annual event in Berlin.
 - [ETHGlobal](https://ethglobal.co/) - Hacking is highly recommended if you're a learn by doing type. Lots of hackers who are new to Ethereum, but also small enough there are OGs available for inquiries. Free to attend, really great people.
 - Blockchain weeks (NY blockchain week, SF blockchain week, Berlin blockchain week, etc.) 
 - [Stanford Blockchain Conference](https://cyber.stanford.edu/sbc19)(Research focused)
