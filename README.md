@@ -4,7 +4,7 @@ An evolving starter kit for blockchain - Disclaimer: Heavy Ethereum lens.
 ## History
 
 **Blockchain**
-Blockchain is a quite generic system using cryptography and a ledger. The structure of the system allows for immutable transactions. A distributed ledger is usually peer-to-peer and requires consensus for validating new blocks. 
+Blockchain is a generic system using cryptography and a ledger which allows for immutable "transactions". A distributed ledger is usually peer-to-peer and requires consensus for validating new blocks. 
 
 *Recommended Reading: [3500 Word Plain English Guide to Blockchain](https://thenextweb.com/contributors/2017/11/01/ultimate-3500-word-plain-english-guide-blockchain/)*
 
@@ -23,7 +23,7 @@ The first blockchain was presented in a whitepaper under the pseudonym Satoshi N
 
 **Ethereum**
 
-Ethereum is an open source, public, Turing-complete, blockchain-based distributed system featuring smart contracts. [Vitalik Buterin](https://vitalik.ca/) wrote the white paper in 2013. Amongst the co-founders is Gavin Wood (Parity Technologies), Charles Hoskinson (Cardano), and Anthony Di Iorio, Joe Lubin (ConsenSys).
+Ethereum is an open source, public, Turing-complete, blockchain-based, distributed system featuring smart contracts. [Vitalik Buterin](https://vitalik.ca/) wrote the white paper in 2013. Amongst the co-founders is Gavin Wood (Parity Technologies), Charles Hoskinson (Cardano), and Anthony Di Iorio, Joe Lubin (ConsenSys).
 
 *Recommended Reading: [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper#ethereum-accounts)*
 
