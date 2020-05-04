@@ -1,9 +1,10 @@
-# blockchain-starterkit
+# The Blockchain Starter Kit
 An evolving starter kit for blockchain - Disclaimer: Heavy Ethereum lens.
 
 ## History
 
 **Blockchain**
+
 Blockchain is a generic system using cryptography and a ledger which allows for immutable "transactions". A distributed ledger is usually peer-to-peer and requires consensus for validating new blocks. 
 
 *Recommended Reading: [3500 Word Plain English Guide to Blockchain](https://thenextweb.com/contributors/2017/11/01/ultimate-3500-word-plain-english-guide-blockchain/)*
@@ -12,6 +13,7 @@ Blockchain is a generic system using cryptography and a ledger which allows for 
 
 
 **Bitcoin**
+
 The first blockchain was presented in a whitepaper under the pseudonym Satoshi Nakamoto in 2008. The design was implemented into the form of a cryptocurrency called Bitcoin. [Nick Szabo](http://unenumerated.blogspot.com/) is known for ushering in a new concept around "smart contracts" which laid the foundations for Ethereum. 
 
 *Recommended Reading: [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)*
@@ -34,11 +36,11 @@ https://blog.ethereum.org/2014/01/23/ethereum-now-going-public/
 
 
 
-**Why it matters now**
-- Technology to support intense cryptographic functions is here!
-- Data has become a defining "currency"
-- Private corporations and software is ruling the world
-- Call for financial reform
+### **Why it matters now**
+- Technologies to support intense cryptographic functions are here!
+- Data can be "digital currency"
+- Private corporations and software are ruling the world
+- A call for financial reform
 
 *Recommended Reading: [Three challenges for the web, according to Sir Tim Berners-Lee](https://webfoundation.org/2017/03/web-turns-28-letter/)*
 
